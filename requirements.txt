@@ -1,0 +1,6 @@
+sqlalchemy
+aiogram
+regex
+pandas
+openpyxl
+pytz
